@@ -1,0 +1,7 @@
+﻿  C++Project_AsalTechnologies.cpp
+C:\Users\lenovo\OneDrive\سطح المكتب\C++ Visual studio\C++Project_AsalTechnologies\Storage.h(47,7): error C2143: syntax error: missing ';' before '*'
+C:\Users\lenovo\OneDrive\سطح المكتب\C++ Visual studio\C++Project_AsalTechnologies\Storage.h(47,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lenovo\OneDrive\سطح المكتب\C++ Visual studio\C++Project_AsalTechnologies\Storage.h(47,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\lenovo\OneDrive\سطح المكتب\C++ Visual studio\C++Project_AsalTechnologies\memoryEmulator.h(37,1): error C2084: function 'MemoryEmulators::MemoryEmulators(void)' already has a body
+C:\Users\lenovo\OneDrive\سطح المكتب\C++ Visual studio\C++Project_AsalTechnologies\memoryEmulator.h(26): message : see previous definition of '{ctor}'
+C:\Users\lenovo\OneDrive\سطح المكتب\C++ Visual studio\C++Project_AsalTechnologies\C++Project_AsalTechnologies.cpp(57,20): error C2264: 'MemoryEmulators::MemoryEmulators': error in function definition or declaration; function not called
